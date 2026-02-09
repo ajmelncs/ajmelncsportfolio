@@ -1,25 +1,38 @@
+# Ajmel's First Image Share
+
+A simple repo to upload and showcase my image on GitHub 🌟
+
+## Preview
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Ajmel+%F0%9F%91%8B;Aspiring+Developer+from+Quebec+%F0%9F%87%A8%F0%9F%87%A6;Building+my+first+portfolio+in+2026" alt="Typing SVG" />
+  <img sr"images
+  .png" alt="My uploaded image" width="80%"/>
 </div>
 
-<br>
+> Click the image to view it full size!  
+> (If your image is inside a folder called `images/`, change the path to `images/Your-Image-Name.png`)
 
-<h2 align="center">About Me 🚀</h2>
+## What this image is about
 
-<p align="center">
-  I'm Ajmel, a passionate learner based in <strong>Beauharnois, Quebec</strong> ❄️🌨️.<br>
-  Currently exploring programming, GitHub, web basics, and creative projects.<br>
-  I love turning ideas into code (or at least trying 😄), capturing moments with photos, and documenting my journey.
-</p>
+This is **[short description of your image]** — for example:  
+- a beautiful winter photo from Beauharnois  
+- my first website screenshot  
+- a quick sketch/drawing I made  
+- a funny meme or chart I created  
 
-<p align="center">
-  <em>"Learning one commit at a time..."</em>
-</p>
+I uploaded it here to practice GitHub, keep my images organized, and maybe share it with friends or add it to my portfolio later.
 
-<br>
+## A bit about me
 
-<h2 align="center">🛠️ Skills & Tools</h2>
+- 📍 Location: Beauharnois, Quebec  
+- ❄️ Loving the Canadian winter vibes right now  
+- 🛠️ Learning GitHub step by step  
+- Current date: February 2026  
 
+If you like this repo or the image, feel free to give it a ⭐ !
+
+Thanks for stopping by 😊  
+Ajmel
 <p align="center">
   <!-- You can add/remove these. Find more icons at https://github.com/Ileriayo/markdown-badges or https://skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,python,linux&theme=dark&perline=7" alt="skills" />
