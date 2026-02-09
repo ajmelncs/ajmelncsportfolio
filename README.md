@@ -5,7 +5,7 @@ A simple repo to upload and showcase my image on GitHub 🌟
 ## Preview
 
 <div align="center">
-  <img src="[Your-Image-Name.png]" alt="My uploaded image" width="80%"/>
+  <img src="images.png" alt="My uploaded image" width="80%"/>
 </div>
 
 > Click the image to view it full size!  
